@@ -1,0 +1,8 @@
+endpoints:
+  - task: text_generation
+    model: hf:mgoin/Nous-Hermes-llama-2-7b-pruned50-quant-ds
+    kwargs:
+      sequence_length: 4096
+    logging_config:
+      prediction_latency:
+        enable: False
