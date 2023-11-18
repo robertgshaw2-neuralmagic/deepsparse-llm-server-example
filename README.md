@@ -7,7 +7,7 @@ See: https://huggingface.co/mgoin/Nous-Hermes-llama-2-7b-pruned50-quant-ds
 
 Checkout Using the Pipeline (in `pipeline-interaction.ipynb`)
 
-### Launch Server:
+### Launch Server
 
 Build Docker Image:
 
